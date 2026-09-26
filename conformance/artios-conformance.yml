@@ -1,0 +1,12 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.artios.com/privacy-policy/
+sources:
+- https://www.artios.com/privacy-policy/
+standards:
+- id: gdpr
+  conforms: true
+  evidence: We will treat the personal information that you have supplied to us in accordance with our responsibilities under the EU General Data
+    Protection Regulation (GDPR) and the Data Protection Act 1998 as it applies in the United Kingdom...
+docs: https://www.artios.com/privacy-policy/
